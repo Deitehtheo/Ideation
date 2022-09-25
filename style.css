@@ -1,0 +1,66 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: aliceblue;
+  font-family: poppins;
+}
+
+header {
+  background-color: rgb(41, 3, 90);
+  height: 400px;
+}
+
+nav {
+  height: 50px;
+  background-color: black;
+}
+
+ul {
+  display: flex;
+  justify-content: flex-end;
+  gap: 2rem;
+}
+
+ul li {
+  list-style: none;
+  padding-top: 15px;
+  padding-right: 50px;
+}
+
+.lottie-1 .headings {
+  padding: 100px;
+}
+
+.lottie-1 {
+  display: flex;
+  justify-content: flex-end;
+  padding-bottom: 80px;
+  padding-right: 20px;
+  line-height: 60px;
+}
+
+.lottie-1 h1 {
+  /* background-color: bisque; */
+  /* padding: 0; */
+  flex: 1;
+  text-align: center;
+  font-size: 80px;
+  margin: auto 0;
+}
+
+.lottie-1 h3 {
+  text-align: center;
+  font-weight: normal;
+  letter-spacing: 5px;
+}
+
+.section-1 {
+  background-color: rgb(213, 213, 213);
+  height: 300px;
+  color: black;
+}
+
+.section-1 p {
+  color: black;
+}
